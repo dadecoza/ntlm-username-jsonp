@@ -18,7 +18,7 @@ After you run the script *python ntlm-username-jsonp.py* you can use the below e
   </script>
   <script src="http://localhost:8080/js?callback=setUsername"></script>
 </head>
-<body onload='alert("hello " + username);'>
+<body>
   <p></p>
 </body>
 </html>
