@@ -1,7 +1,7 @@
 # ntlm-username-jsonp
 Decode the NTLM authentication header and return the username as JSONP.
 
-**This not a method of authentication!!**
+**This is not a method of authentication!!**
 
 This is a simple Python 2.7 script that runs Flask with a web service that will return JSONP with the username of the current logged in user.
 
